@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="congnitive img" />
+      <item value="congnitive_img" />
       <item value="Unnecessarily replacing a task that does not exist is not supported. Use create() or register() directly instead. You attempted to replace a task named 'optimizeAppDebug', but there is no existing task with that name." />
       <item value="题目" />
       <item value="border lines." />
@@ -49,12 +51,10 @@
       <item value="close" />
       <item value="encountered" />
       <item value="for" />
-      <item value="HHH" />
-      <item value="instantiate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="37" />
+        <entry key="CHINESE" value="38" />
         <entry key="ENGLISH" value="38" />
         <entry key="CHINESE_TRADITIONAL" value="3" />
       </map>
